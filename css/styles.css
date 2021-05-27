@@ -1,0 +1,43 @@
+.header{
+  background-color: rosybrown;
+  padding:20px;
+  margin-bottom: auto;
+  margin-right: 9px;
+  margin-left: 9px;
+  
+}
+
+body{
+  text-align: center;
+}
+
+.column1{
+  width: 200px;
+  float: left;
+}
+.column2{
+  width: 200px;
+  float: left;
+}
+.column3{
+  width: 200px;
+  float: left;
+}
+.column4{
+  width: 200px;
+  float: left;
+}
+.column5{
+  width: 200px;
+  float: left;
+}
+.column6{
+  width: 200px;
+  float: left;
+}
+p{
+  text-align:left;
+}
+.text{
+  text-align: center;
+}
